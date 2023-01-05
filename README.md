@@ -9,8 +9,8 @@ There are many CI/CD tools such as Buddy, Jenkins, GitLab, Buildbot, IBM Urban e
 
 [What is a CI/CD pipeline](https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation.)
 
-[Best 14 CI/CD Tools You Must Know | Updated for 2023]([https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation](https://katalon.com/resources-center/blog/ci-cd-tools?fbclid=IwAR0Xlg5IuPmMJoBNL6wQR1nkucJBFDKedUFfTir2V4iHxbzXKHBUazsYdLs).)
+[Best 14 CI/CD Tools You Must Know | Updated for 2023]([https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation](https://katalon.com/resources-center/blog/ci-cd-tools?fbclid=IwAR0Xlg5IuPmMJoBNL6wQR1nkucJBFDKedUFfTir2V4iHxbzXKHBUazsYdLs.)
 
-[What are the benefits of CI/CD?]([https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation.](https://www.jetbrains.com/teamcity/ci-cd-guide/benefits-of-ci-cd/?fbclid=IwAR23yzXRXh_NAfwuvEdvAu-6IQNpBy9MuhWa1RmIQmG0ZhiOTDuaKs3HXtM))
+[What are the benefits of CI/CD?]([https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation.](https://www.jetbrains.com/teamcity/ci-cd-guide/benefits-of-ci-cd/?fbclid=IwAR23yzXRXh_NAfwuvEdvAu-6IQNpBy9MuhWa1RmIQmG0ZhiOTDuaKs3HXtM)
 
-[Understanding of CI/CD pipeline]([https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation.](https://www.jetbrains.com/teamcity/ci-cd-guide/devops-ci-cd/?fbclid=IwAR3HqUxSp3xjWo0b2OGohb95KG91VOoQhsNlXdZ_eJ762MlTAYAwPFT31AA))
+[Understanding of CI/CD pipeline]([https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation.](https://www.jetbrains.com/teamcity/ci-cd-guide/devops-ci-cd/?fbclid=IwAR3HqUxSp3xjWo0b2OGohb95KG91VOoQhsNlXdZ_eJ762MlTAYAwPFT31AA)
