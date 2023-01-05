@@ -7,17 +7,16 @@ From what I have learnt through my undergrad degree, Continuous integration (CI)
 
 There are many CI/CD tools such as Buddy, Jenkins, GitLab, Buildbot, IBM Urban etb and multiple tools such as  Jenkins, AWS Code Deploy, and GitLab are used in projects.  Among them, I am familiar with the Azure Pipeline tool, as I have used it in one of my previous group projects. It is Microsoft's cloud-based infrastructure platform. Azure Pipeline connects continuous integration and continuous delivery to test, build and deliver the code to any destination. I have also heard about Jenkins- one of the most popular tools on the market which provide multiple plugins to assist in building and automating any projects. Jenkins also supports deploying the code with continuous delivery. Continuous integration and delivery (CI/CD) allow IT companies and organizations to deliver software more efficiently. It also encourages the process of getting an application to the market faster, continuously providing the code to the production and securing the ongoing flow of new updates and bugs fixed through the most effective delivery approach. Using CI/CD pipeline could have potential risks as the application reaches the market in a short time. However, being able to test the software either with system testers or even with real users at any stage of the product allow the developers to validate the development process before spending so much time on a feature that might not solve a problem for the users. Automated testing guarantees to perform regularly, enhances the reliability and quality of the code. Not only it improves the code quality but also helps to fix bugs more quickly. A CI/CD pipeline provides better collaboration and communication between the development and operation teams. Then, all the members are able to know the development process and cooperate with each other. With the availability of multiple options (CI/CD tools) present, selecting the compatible tools are challenging and it is important to think about the requirements of the project, the parameters and each tool’s capabilities and limitations.
 
+## Relevant Links 
+
 [What is a CI/CD pipeline](https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation.)
-
 [Best 14 CI/CD Tools You Must Know | Updated for 2023](https://katalon.com/resources-center/blog/ci-cd-tools?fbclid=IwAR0Xlg5IuPmMJoBNL6wQR1nkucJBFDKedUFfTir2V4iHxbzXKHBUazsYdLs)
-
 [What are the benefits of CI/CD?](https://www.jetbrains.com/teamcity/ci-cd-guide/benefits-of-ci-cd/)
-
 [Understanding of CI/CD pipeline](https://www.jetbrains.com/teamcity/ci-cd-guide/devops-ci-cd/?fbclid=IwAR3HqUxSp3xjWo0b2OGohb95KG91VOoQhsNlXdZ_eJ762MlTAYAwPFT31AA)
-
 [Why is CI/CD important?](https://www.synopsys.com/glossary/what-is-cicd.html?fbclid=IwAR0AGZrSt388Sb0Qps9w5ELg0yeSg6Je008LikogqVu0LH6yCtfqTIHg6Wo)
-
 [A Guild to CI/CD](https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-tools/?fbclid=IwAR2PgXvuIohO2Whed0Ad45cgW-nD9cirXQ_GsFiObc3ovkF5a-_Mvz6wFhU)
-
-[Top 14 CI CD Tools for your DevOps project] (https://www.browserstack.com/guide/top-ci-cd-tools?fbclid=IwAR06LXruXjd3KgCnkrAWq4gEIMumscddW1Y9gC5RHDJuHo-7CEBzm8mUn6o)
+[Top 14 CI CD Tools for your DevOps project](https://www.browserstack.com/guide/top-ci-cd-tools?fbclid=IwAR06LXruXjd3KgCnkrAWq4gEIMumscddW1Y9gC5RHDJuHo-7CEBzm8mUn6o)
+[CI/CD Concepts](https://www.jetbrains.com/teamcity/ci-cd-guide/concepts/)
+[Continuous Integration vs. Delivery vs. Deployment](https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-integration-vs-delivery-vs-deployment/?fbclid=IwAR2f0wVgSDf9ux44rcSzq6ARz0QhM80KBZJG5z6hDzJI18q6DYeq6w24Rig)
+[What is DevSecOps and its role in CD?](https://www.jetbrains.com/teamcity/ci-cd-guide/what-is-devsecops/?fbclid=IwAR0zhLbIc-8Ohx_w5iBiLdUT4WtH7VNlItGmo0S9lPHj08TXeaAPVfnnQL0)
 
