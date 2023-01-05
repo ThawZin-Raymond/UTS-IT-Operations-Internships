@@ -9,14 +9,14 @@ There are many CI/CD tools such as Buddy, Jenkins, GitLab, Buildbot, IBM Urban e
 
 ## Relevant Links 
 
--[What is a CI/CD pipeline](https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation.)
--[Best 14 CI/CD Tools You Must Know | Updated for 2023](https://katalon.com/resources-center/blog/ci-cd-tools?fbclid=IwAR0Xlg5IuPmMJoBNL6wQR1nkucJBFDKedUFfTir2V4iHxbzXKHBUazsYdLs)
--[What are the benefits of CI/CD?](https://www.jetbrains.com/teamcity/ci-cd-guide/benefits-of-ci-cd/)
--[Understanding of CI/CD pipeline](https://www.jetbrains.com/teamcity/ci-cd-guide/devops-ci-cd/?fbclid=IwAR3HqUxSp3xjWo0b2OGohb95KG91VOoQhsNlXdZ_eJ762MlTAYAwPFT31AA)
--[Why is CI/CD important?](https://www.synopsys.com/glossary/what-is-cicd.html?fbclid=IwAR0AGZrSt388Sb0Qps9w5ELg0yeSg6Je008LikogqVu0LH6yCtfqTIHg6Wo)
--[A Guild to CI/CD](https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-tools/?fbclid=IwAR2PgXvuIohO2Whed0Ad45cgW-nD9cirXQ_GsFiObc3ovkF5a-_Mvz6wFhU)
--[Top 14 CI CD Tools for your DevOps project](https://www.browserstack.com/guide/top-ci-cd-tools?fbclid=IwAR06LXruXjd3KgCnkrAWq4gEIMumscddW1Y9gC5RHDJuHo-7CEBzm8mUn6o)
--[CI/CD Concepts](https://www.jetbrains.com/teamcity/ci-cd-guide/concepts/)
--[Continuous Integration vs. Delivery vs. Deployment](https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-integration-vs-delivery-vs-deployment/?fbclid=IwAR2f0wVgSDf9ux44rcSzq6ARz0QhM80KBZJG5z6hDzJI18q6DYeq6w24Rig)
--[What is DevSecOps and its role in CD?](https://www.jetbrains.com/teamcity/ci-cd-guide/what-is-devsecops/?fbclid=IwAR0zhLbIc-8Ohx_w5iBiLdUT4WtH7VNlItGmo0S9lPHj08TXeaAPVfnnQL0)
+- [What is a CI/CD pipeline](https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation.)
+- [Best 14 CI/CD Tools You Must Know | Updated for 2023](https://katalon.com/resources-center/blog/ci-cd-tools?fbclid=IwAR0Xlg5IuPmMJoBNL6wQR1nkucJBFDKedUFfTir2V4iHxbzXKHBUazsYdLs)
+- [What are the benefits of CI/CD?](https://www.jetbrains.com/teamcity/ci-cd-guide/benefits-of-ci-cd/)
+- [Understanding of CI/CD pipeline](https://www.jetbrains.com/teamcity/ci-cd-guide/devops-ci-cd/?fbclid=IwAR3HqUxSp3xjWo0b2OGohb95KG91VOoQhsNlXdZ_eJ762MlTAYAwPFT31AA)
+- [Why is CI/CD important?](https://www.synopsys.com/glossary/what-is-cicd.html?fbclid=IwAR0AGZrSt388Sb0Qps9w5ELg0yeSg6Je008LikogqVu0LH6yCtfqTIHg6Wo)
+- [A Guild to CI/CD](https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-tools/?fbclid=IwAR2PgXvuIohO2Whed0Ad45cgW-nD9cirXQ_GsFiObc3ovkF5a-_Mvz6wFhU)
+- [Top 14 CI CD Tools for your DevOps project](https://www.browserstack.com/guide/top-ci-cd-tools?fbclid=IwAR06LXruXjd3KgCnkrAWq4gEIMumscddW1Y9gC5RHDJuHo-7CEBzm8mUn6o)
+- [CI/CD Concepts](https://www.jetbrains.com/teamcity/ci-cd-guide/concepts/)
+- [Continuous Integration vs. Delivery vs. Deployment](https://www.jetbrains.com/teamcity/ci-cd-guide/continuous-integration-vs-delivery-vs-deployment/?fbclid=IwAR2f0wVgSDf9ux44rcSzq6ARz0QhM80KBZJG5z6hDzJI18q6DYeq6w24Rig)
+- [What is DevSecOps and its role in CD?](https://www.jetbrains.com/teamcity/ci-cd-guide/what-is-devsecops/?fbclid=IwAR0zhLbIc-8Ohx_w5iBiLdUT4WtH7VNlItGmo0S9lPHj08TXeaAPVfnnQL0)
 
