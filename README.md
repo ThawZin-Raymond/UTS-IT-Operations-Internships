@@ -16,3 +16,8 @@ There are many CI/CD tools such as Buddy, Jenkins, GitLab, Buildbot, IBM Urban e
 [Understanding of CI/CD pipeline](https://www.jetbrains.com/teamcity/ci-cd-guide/devops-ci-cd/?fbclid=IwAR3HqUxSp3xjWo0b2OGohb95KG91VOoQhsNlXdZ_eJ762MlTAYAwPFT31AA)
 
 [Why is CI/CD important?](https://www.synopsys.com/glossary/what-is-cicd.html?fbclid=IwAR0AGZrSt388Sb0Qps9w5ELg0yeSg6Je008LikogqVu0LH6yCtfqTIHg6Wo)
+
+[A Guild to CI/CD](https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-tools/?fbclid=IwAR2PgXvuIohO2Whed0Ad45cgW-nD9cirXQ_GsFiObc3ovkF5a-_Mvz6wFhU)
+
+[Top 14 CI CD Tools for your DevOps project] (https://www.browserstack.com/guide/top-ci-cd-tools?fbclid=IwAR06LXruXjd3KgCnkrAWq4gEIMumscddW1Y9gC5RHDJuHo-7CEBzm8mUn6o)
+
