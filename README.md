@@ -10,6 +10,7 @@ There are many CI/CD tools such as Buddy, Jenkins, GitLab, Buildbot, IBM Urban e
 ## Relevant Links 
 
 - [What is a CI/CD pipeline](https://www.redhat.com/en/topics/devops/what-cicd-pipeline#:~:text=A%20continuous%20integration%20and%20continuous,development%20life%20cycle%20via%20automation.)
+- [What is Continuous Integration](https://aws.amazon.com/devops/continuous-integration/)
 - [Understanding of CI/CD pipeline](https://www.jetbrains.com/teamcity/ci-cd-guide/devops-ci-cd/?fbclid=IwAR3HqUxSp3xjWo0b2OGohb95KG91VOoQhsNlXdZ_eJ762MlTAYAwPFT31AA)
 - [A Guild to CI/CD](https://www.jetbrains.com/teamcity/ci-cd-guide/ci-cd-tools/?fbclid=IwAR2PgXvuIohO2Whed0Ad45cgW-nD9cirXQ_GsFiObc3ovkF5a-_Mvz6wFhU)
 - [CI/CD Concepts](https://www.jetbrains.com/teamcity/ci-cd-guide/concepts/)
