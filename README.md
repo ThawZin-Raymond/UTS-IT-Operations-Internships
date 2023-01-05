@@ -14,3 +14,5 @@ There are many CI/CD tools such as Buddy, Jenkins, GitLab, Buildbot, IBM Urban e
 [What are the benefits of CI/CD?](https://www.jetbrains.com/teamcity/ci-cd-guide/benefits-of-ci-cd/)
 
 [Understanding of CI/CD pipeline](https://www.jetbrains.com/teamcity/ci-cd-guide/devops-ci-cd/?fbclid=IwAR3HqUxSp3xjWo0b2OGohb95KG91VOoQhsNlXdZ_eJ762MlTAYAwPFT31AA)
+
+[Why is CI/CD important?]([https://link-url-here.org](https://www.synopsys.com/glossary/what-is-cicd.html?fbclid=IwAR0AGZrSt388Sb0Qps9w5ELg0yeSg6Je008LikogqVu0LH6yCtfqTIHg6Wo))
